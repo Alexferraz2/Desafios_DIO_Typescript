@@ -2,6 +2,6 @@ Este projeto foi desenvolvido no Bootcamp Impulso Javascript Evolution pela DIO 
 
 
 
-Projeto que consome a base de dados de filme do TMDB
+Projeto que consome a base de dados de filme do TMDB, para criar um organizador de filmes.
 
-Link da página de lista de filmes(https://alexferraz2.github.io/Desafio4_Typescritp_tDIO/)
+[Link da página de lista de filmes](https://alexferraz2.github.io/Desafio4_Typescritp_tDIO/)
